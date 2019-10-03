@@ -29,3 +29,7 @@ Titles
     h1{
         color:green;
     }
+
+    img {
+        max-width:100%;
+    }
